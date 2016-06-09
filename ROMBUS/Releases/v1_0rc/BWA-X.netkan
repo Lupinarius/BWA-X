@@ -1,0 +1,20 @@
+{
+    "spec_version" : 1,
+	"name"         : "BWA-X - ROMBUS Pack",
+	"abstract"     : "A parts pack for building a craft resembling the Douglas SASSTO-ROMBUS",
+    "identifier"   : "BWA-X",
+    "$kref"        : "#/ckan/spacedock/743",
+    "license"      : "CC-BY-SA-4.0",
+	 "ksp_version"    : "1.1.2",
+	
+	 "depends": [
+        { "name": "ModuleManager" },
+		{ "name": "CommunityResourcePack" }
+    ],
+    "recommends": [
+        { "name": "ModularFuelTanks" }
+    ],
+    "suggests": [
+
+    ]
+}
